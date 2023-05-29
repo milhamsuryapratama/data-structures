@@ -4,7 +4,7 @@ Linked List termasuk dalam `linear data structure`. Lalu apa yang dimaksud denga
 
 `Linear Data Structure` adalah kumpulan data yang tersusun secara berurutan yang mana pada setiap element datanya terhubung dengan data lainnya yang berdekatan. Pada `linear data structure` kita bisa mengakses setiap element secara berurutan
 
-![img.png](img.png)
+![linear-data-structure.png](linear-data-structure.png)
 
 Berikut beberapa yang termasuk kedalam `linear data structure`
 
