@@ -20,10 +20,9 @@ Berikut beberapa yang termasuk kedalam `linear data structure`
 `Linked List` selalu memilik `head`. `head` adalah node awal dari sebuah kumpulan `nodes` yang saling terhubung. Ketika kita mencoba mengakses data pada `linked list`, kita akan memulainya dari `head` secara berurutan sesuai `node` yang terhubung
 
 Beberapa operasi bisa kita lakukan pada `linked list`, antara lain:
-1. `Insertion`, menambah data pada `linked list`
-2. `Deletion`, menghapus data pertama (`head`) pada `linked list`
+1. `Insert`, menambah data pada `linked list`
+2. `Delete`, menghapus data berdasarkan key/data pada `linked list`
 3. `Display`, menampilkan data `linked list`
-4. `Delete`, menghapus data berdasarkan key/data yang kita pilih
 5. `Search`, mencari data pada `linked list`
 
 `Linked List` juga mempunya beberapa tipe, antara lain:
